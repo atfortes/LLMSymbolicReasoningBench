@@ -1,0 +1,42 @@
+[
+    {
+        "question": "How many 'r' are there in the word 'strawberry'?",
+        "answer": "3"
+    },
+    {
+        "question": "How many 'a' are there in the word 'banana'?",
+        "answer": "3"
+    },
+    {
+        "question": "How many 'p' are there in the word 'apple'?",
+        "answer": "2"
+    },
+    {
+        "question": "How many 'r' are there in the word 'raspberry'?",
+        "answer": "2"
+    },
+    {
+        "question": "How many 'b' are there in the word 'blueberry'?",
+        "answer": "2"
+    },
+    {
+        "question": "How many 'n' are there in the word 'pineapple'?",
+        "answer": "1"
+    },
+    {
+        "question": "How many 'e' are there in the word 'cherry'?",
+        "answer": "1"
+    },
+    {
+        "question": "How many 'a' are there in the word 'papaya'?",
+        "answer": "3"
+    },
+    {
+        "question": "How many 'a' are there in the word 'grapefruit'?",
+        "answer": "1"
+    },
+    {
+        "question": "How many 'o' are there in the word 'coconut'?",
+        "answer": "2"
+    }
+]

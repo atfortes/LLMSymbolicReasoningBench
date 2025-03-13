@@ -26,7 +26,7 @@ Please exclude large data files in the PR as they take up too much space. Instea
 Please include the following sections in your README to help its better use:
 
 + **Dataset Name**: Serves as the markdown title.
-+ **Authors**: Your name(s), contact (email), and url to your homepage(s) (if available).
++ **Authors**: Your name(s), contact and/or url to your homepage (if available).
 + **Task Description**: A short paragraph to briefly introduce what the dataset and corresponding task is about.
 + **Running Commands**: Instructions for generating the dataset.
 + **Reference**: Proper citation information for the dataset (if applicable).
