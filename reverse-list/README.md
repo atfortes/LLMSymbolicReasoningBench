@@ -6,8 +6,6 @@
 
 Homepage: https://atfortes.github.io/
 
-Contact: fmq22@mails.tsinghua.edu.cn
-
 ## Task Description
 
 This task requires the model to determine the reverse order of a given sequence of [everyday objects](https://www.vocabulary.com/lists/189583). For instance, the input `Reverse the sequence "identity card, sunscreen, brush, light bulb, water".` should receive the response `water, light bulb, brush, sunscreen, identity card`.
