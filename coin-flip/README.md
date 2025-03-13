@@ -6,8 +6,6 @@
 
 Homepage: https://atfortes.github.io/
 
-Contact: fmq22@mails.tsinghua.edu.cn
-
 Acknowledgement: Dataset generation code was adapted from [Kojima et al. (2022)](https://github.com/kojima-takeshi188/zero_shot_cot/blob/main/create_dataset_for_symbolic_reasoning.py).
 
 ## Task Description
