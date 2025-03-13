@@ -34,6 +34,10 @@ Please include the following sections in your README to help its better use:
 ### Environment Requirements (requirements.txt)
 Please include the necessary packages in the file for generating the dataset.
 
+## Other Relevant Datasets
+
+- [Reversal Curse](https://huggingface.co/datasets/lberglund/reversal_curse)
+
 ## Citation
 
 If you find our work useful, please cite the respective datasets you used (if applicable) and this repository:
