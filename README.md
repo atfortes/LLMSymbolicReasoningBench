@@ -1,4 +1,4 @@
-# Synthetic Datasets for Language Models
+# Simple Synthetic Benchmarks for Language Models
 
 This repository is dedicated to generating datasets for symbolic and logic reasoning tasks in LLMs. Our goal is to provide an implementation for the generation of datasets that are not public or do not have an official implementation, and to make it easy for people to create and reproduce them.
 
