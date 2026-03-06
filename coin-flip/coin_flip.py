@@ -28,9 +28,9 @@ def main():
         for j in range(args.names_in_sample):
             whether_flips = bool(random.getrandbits(1))
             heads_up = not heads_up if whether_flips else heads_up
-            k = i*args.names_in_sample + j
-            text = "flips" if whether_flips == 1 else "does not flip"
-            q += f"{name_list[k]} {text} the coin. "
+            name = random.choice(name_list)
+            text = "flips" if whether_flips else "does not flip"
+            q += f"{name} {text} the coin. "
         q += "Is the coin still heads up?"
         a = 'yes' if heads_up else 'no'
 
