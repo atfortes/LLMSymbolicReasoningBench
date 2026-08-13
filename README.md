@@ -1,3 +1,5 @@
+
+
 # Simple Synthetic Benchmarks for Language Models
 
 This repository is dedicated to generating datasets for symbolic and logic reasoning tasks in LLMs. Our goal is to provide an implementation for the generation of datasets that are not public or do not have an official implementation, and to make it easy for people to create and reproduce them.
@@ -33,6 +35,14 @@ Please include the following sections in your README to help its better use:
 
 ### Environment Requirements (requirements.txt)
 Please include the necessary packages in the file for generating the dataset.
+
+## Available Datasets
+
+- [Coin Flip](coin-flip/README.md)
+- [First Letter Concatenation](first-letter-concatenation/README.md)
+- [Last Letter Concatenation](last-letter-concatenation/README.md)
+- [Reverse List](reverse-list/README.md)
+- [Strawberry](strawberry/README.md)
 
 ## Other Relevant Datasets
 
